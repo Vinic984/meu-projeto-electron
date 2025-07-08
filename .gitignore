@@ -1,0 +1,9 @@
+node_modules/
+.env
+database.db
+*.log
+*.tmp
+*.swp
+*.swo
+dist/
+build/
